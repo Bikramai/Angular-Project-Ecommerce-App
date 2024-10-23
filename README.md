@@ -14,3 +14,11 @@ As our application get more complex vanilla JavaScript / jQuery hard to maintain
 - Makes our applications more testable
 
 ## Angular Makes my life easier!!!
+
+# Architecture of Angular applications
+A lot of mordern applications has two part Front-end and Back-end. Frontend is also called client in web browser this is 
+what the user sees and interacts with. It essentially includes User Interface(UI) of the application. We use HTML, CSS
+TypeScript, Angular to build the Frontend. 
+
+The backend sit in the webserver or multiple Web server in a cloud and is responsible for storing the data and doing any
+kind of processing.
