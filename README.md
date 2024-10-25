@@ -53,8 +53,16 @@ or Frontend developer we don't have to worry about it. This is the Job of Backen
 ## Setting Up the Development Environment
 
 - Install Latest Version of Node.js
-- Node version above then v6.9.0
-- npm to install third party libraries
+- Node minimum required version above v6.9.0
+- npm packgae to install third party libraries
 - Install Angular CLI
   - sudo npm install -g @angular/cli
 - ng --version
+
+## My First Angular App
+
+## Structure of Angular apps
+
+## Webpack
+
+## Angular Version History
