@@ -61,6 +61,10 @@ or Frontend developer we don't have to worry about it. This is the Job of Backen
 
 ## My First Angular App
 
+- ng new hello-world
+- cd hello-world
+- ng serve
+
 ## Structure of Angular apps
 
 ## Webpack
