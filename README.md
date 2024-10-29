@@ -70,3 +70,14 @@ or Frontend developer we don't have to worry about it. This is the Job of Backen
 ## Webpack
 
 ## Angular Version History
+
+# Section-3: TypeScript and Object-Oriented Programming Fundamentals
+
+- Type annotations
+- Arrow functions
+- Interfaces
+- Classes
+- Constructors
+- Access modifiers
+- Properties
+- Modules
