@@ -71,7 +71,7 @@ or Frontend developer we don't have to worry about it. This is the Job of Backen
 
 ## Angular Version History
 
-# Section-3: TypeScript and Object-Oriented Programming Fundamentals
+# Section-2: TypeScript and Object-Oriented Programming Fundamentals
 
 - Type annotations
 - Arrow functions
@@ -81,3 +81,10 @@ or Frontend developer we don't have to worry about it. This is the Job of Backen
 - Access modifiers
 - Properties
 - Modules
+
+Section-3: Angular-Fundamentals
+
+- Components
+- Templates
+- Directives
+- Services
